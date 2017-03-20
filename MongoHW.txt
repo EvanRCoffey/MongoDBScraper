@@ -1,0 +1,30 @@
+Home page
+
+-Navbar and home page jumbotron
+
+
+
+
+-"Scrape new articles" button (notify user if it works/doesn't work)
+
+
+
+
+-Scraped, unsaved articles (headline + first sentence of article + button to save article and remove it from unsaved articles) OR a space that says "no new articles"
+
+______________________________________
+
+Saved articles page
+
+-Navbar and saved articles page jumbotron
+
+
+
+-Saved articles (headline + first setence of article + "article notes" button + "delete from saved" button)
+
+
+
+[Article comments popup]
+-"Notes for article: _____"
+-"No notes for this article yet" OR a list of all notes for that comment, each with a delete button
+-A textbox for comments, plus a "save note button"
